@@ -1,0 +1,27 @@
+canvas {
+  display: block;
+  z-index: -1;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  background:#C3E1EC
+  
+}
+
+h1{
+  vertical-align: center;
+  text-align:center;
+}
+
+td{
+  width: 50vw;
+/*   height: 50vw; */
+  vertical-align: center;
+  padding-top: 0px;
+  text-align:center;
+  
+/*   &:after, &:before {
+    content:'';
+  } */
+}
