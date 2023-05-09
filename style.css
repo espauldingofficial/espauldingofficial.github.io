@@ -7,14 +7,12 @@ canvas {
 html, body {
   margin: 0;
   padding: 0;
-  background:#C3E1EC
   
 }
 
 h1{
   vertical-align: center;
   text-align: center;
-  textFont: 'Helvetica';
 }
 
 td{
