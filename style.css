@@ -1,7 +1,9 @@
 canvas {
   display: block;
   z-index: -1;
+  background:#C3E1EC
 }
+
 html, body {
   margin: 0;
   padding: 0;
@@ -11,7 +13,8 @@ html, body {
 
 h1{
   vertical-align: center;
-  text-align:center;
+  text-align: center;
+  textFont: 'Helvetica';
 }
 
 td{
@@ -24,4 +27,10 @@ td{
 /*   &:after, &:before {
     content:'';
   } */
+}
+
+check{
+  margin: 0;
+  padding: 0;
+  background:#C3E1EC
 }
