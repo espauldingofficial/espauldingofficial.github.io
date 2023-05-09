@@ -7,7 +7,13 @@ canvas {
 html, body {
   margin: 0;
   padding: 0;
-  
+
+}
+
+head3{
+  margin: 0;
+  padding: 0;
+  background:#C3E1EC
 }
 
 h1{
@@ -25,10 +31,4 @@ td{
 /*   &:after, &:before {
     content:'';
   } */
-}
-
-check{
-  margin: 0;
-  padding: 0;
-  background:#C3E1EC
 }
